@@ -1,16 +1,15 @@
-# flutter_application_1
+### To run a Flutter app locally, you can use the following commands in the terminal/command prompt:
 
-A new Flutter project.
+- $ cd <flutter_application_1>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+     --This command changes the current directory to the root directory of the Flutter project.
+ 
+ - $ flutter run
+ 
+     --This command starts the app in debug mode and launches it in the connected device or emulator.
+   
+ ### Here is the video of an application
+ 
+   --[Application video](https://user-images.githubusercontent.com/100354001/228923700-3b79a1ef-162b-44af-83a8-ba17fd5416fe.mp4)
+ 
+ 
