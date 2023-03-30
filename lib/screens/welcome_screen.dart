@@ -31,7 +31,7 @@ class WelcomeScreen extends StatelessWidget {
                   style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
-                      fontSize: 17),
+                      fontSize: 20),
                 ),
               ),
             ),
@@ -58,7 +58,7 @@ class WelcomeScreen extends StatelessWidget {
                       "Log In",
                       style: TextStyle(
                           fontWeight: FontWeight.bold,
-                          fontSize: 17,
+                          fontSize: 20,
                           color: Colors.black),
                     ),
                   ),
@@ -82,7 +82,7 @@ class WelcomeScreen extends StatelessWidget {
                       "Sign Up",
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
-                        fontSize: 17,
+                        fontSize: 20,
                       ),
                     ),
                   ),
